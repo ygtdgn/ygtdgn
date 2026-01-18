@@ -2,7 +2,7 @@
 
 
 <p align = "center">
-Developer
+Backend Developer | DBA 
 </p>
 <br/>
 
