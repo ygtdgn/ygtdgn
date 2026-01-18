@@ -2,8 +2,7 @@
 
 
 <p align = "center">
-Founder @ Veritfy | 
-IT Specialist
+Developer
 </p>
 <br/>
 
