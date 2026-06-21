@@ -1,47 +1,234 @@
- <h1 align="center"> Hi there, I'm Yigit.<a href="https://github.com/ygtdgn"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widht="25"></a></h1> 
 
 
-<p align = "center">
-Backend Developer | DBA 
+<div align="center">
+
+
+
+<h1>Hi, I'm Yiğit Doğan 👋</h1>
+
+
+
+<h3>Software Team Lead · Backend-first Full-Stack Engineer</h3>
+
+
+
+<p>
+
+  <strong>I turn complex business workflows into reliable software products.</strong>
+
 </p>
-<br/>
 
 
-<p> <h2 align="center"> :bulb:  Languages and Tools</h2> </p>
+
+<p>
+
+  <a href="https://yigitdogan.dev">
+
+    <img src="https://img.shields.io/badge/Website-yigitdogan.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+
+  </a>
+
+  <a href="https://www.linkedin.com/in/yigitdogan/">
+
+    <img src="https://img.shields.io/badge/LinkedIn-Yigit_Dogan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  </a>
+
+  <a href="mailto:yigtdgn@gmail.com">
+
+    <img src="https://img.shields.io/badge/Email-yigtdgn%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  </a>
+
+  <a href="https://x.com/yigtdogn">
+
+    <img src="https://img.shields.io/badge/X-%40yigtdogn-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+
+  </a>
+
+</p>
+
+
+
+</div>
+
+
+
+---
+
+
+
+## `$ whoami`
+
+
+
+I'm a **software team lead** and **backend-first full-stack engineer** focused on building systems that solve real operational problems.
+
+
+
+I design and deliver **ERP integrations, reporting platforms, internal tools, backend services, and mobile products**—from understanding the workflow and modeling the data to architecture, deployment, and production ownership.
+
+
+
+I started as a maker: building websites and experimenting with Linux, Raspberry Pi, 3D design, and robotics. That curiosity still shapes how I work today—practical, hands-on, product-minded, and always interested in understanding how things work.
+
+
+
+---
+
+
+
+## `$ cat focus.txt`
+
+
+
+- 🧩 Building business-critical backend systems and REST APIs
+
+- 🔄 Connecting ERP, financial, production, inventory, and reporting data
+
+- 📊 Turning fragmented data into useful reports and operational tools
+
+- 🧭 Translating business priorities into maintainable technical solutions
+
+- 👥 Improving architecture, code quality, ownership, and team delivery
+
+- 🤖 Exploring local AI tools, automation, and security-aware engineering
+
+
+
+---
+
+
+
+## `$ cat stack.txt`
+
+
+
+```text
+
+backend    PHP · Laravel · REST APIs · JWT
+
+data       MySQL · MariaDB · MSSQL · Oracle SQL
+
+frontend   JavaScript · TypeScript
+
+mobile     Dart · Flutter
+
+infra      Docker · Linux · Cloudflare · Git
+
+focus      ERP integrations · reporting · internal tools · automation
+
+````
+
+
+
+<p>
+
+  <img
+
+    src="https://skillicons.dev/icons?i=php,laravel,js,ts,dart,flutter,mysql,docker,linux,cloudflare,git,github&perline=12"
+
+    alt="Technology stack"
+
+  />
+
+</p>
+
+
+
+---
+
+
+
+## `$ ls ~/featured-work`
+
+
+
+### [`codebase-indexer`](https://github.com/ygtdgn/codebase-indexer)
+
+
+
+A semantic code search tool powered by **Ollama** and **Qdrant**. It indexes local codebases and provides natural-language search through an **MCP server** for Claude Code and Codex, as well as a standalone CLI.
+
+
+
+<a href="https://github.com/ygtdgn/codebase-indexer">
+
+  <img
+
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ygtdgn&repo=codebase-indexer&theme=tokyonight&hide_border=true"
+
+    alt="codebase-indexer repository"
+
+  />
+
+</a>
+
+
+
+---
+
+
+
+## `$ git stats`
+
+
+
+<div align="center">
+
+
+
+<img
+
+width="49%"
+
+src="https://github-readme-stats.vercel.app/api?username=ygtdgn&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+
+alt="Yiğit Doğan's GitHub stats"
+
+/>
+
+
+
+<img
+
+width="49%"
+
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygtdgn&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+
+alt="Most used languages"
+
+/>
+
+
+
+</div>
+
+
+
 <p align="center">
-<a href="https://unity.com" target="blank">
-    <img align="center" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity" width="35"/></a>
-  
-<a href="https://www.solidworks.com/tr?utm_medium=cpc&utm_source=google&utm_campaign=202001_glo_ps_sea_tr_XOP6888_labl_brand_eme_tr&mktid=&gclid=Cj0KCQjwyYKUBhDJARIsAMj9lkG2_NIqHTAR9KWZEwgbYK09pnBI5dNjdBkTbx2P13IPDU3B9VpMkNgaAgfqEALw_wcB" target="blank">
-    <img align="center" src="https://pbs.twimg.com/profile_images/2915139264/c84035a7d2eb9ede8f23fa6104dc2e5c_400x400.png" alt="Solidworks" width="38"/></a> 
- 
-<a href="https://www.python.org" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="38"/></a> 
-  
-<a href="https://www.w3schools.com/html/" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/112/PNG/512/html5_18891.png" alt="HTML5" width="40"/></a> 
-  
-<a href="https://www.w3schools.com/css/default.asp" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/844/PNG/512/CSS3_icon-icons.com_67069.png" alt="CSS3" width="40"/></a> 
 
-<a href="https://www.w3schools.com/js/default.asp" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="CSS3" width="40"/></a> 
-    
-<a href="https://www.aseprite.org" target="blank">
-    <img align="center" src="https://updov.com/wp-content/uploads/2022/02/aseprite-download.png" alt="Python" width="38"/></a>
+  <img
+
+    width="65%"
+
+    src="https://streak-stats.demolab.com?user=ygtdgn&theme=tokyonight&hide_border=true"
+
+    alt="GitHub contribution streak"
+
+  />
+
 </p>
 
-<br/>
-
-<p> <h2 align="center">📈 Github Stats </h2> </p>
-<img align="left" src=https://github-readme-stats.vercel.app/api?username=ygtdgn&&show_icons=true&title_color=fffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 >
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ygtdgn&layout=compacticons=true&title_color=fffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 >
-<img align="center" src= https://github-readme-streak-stats.herokuapp.com/?user=ygtdgn&theme=tokyonight&date_format=j%20M%5B%20Y%5D
- >
 
 
-<br>
-<p> <h2 align="center"> 📫 How To Reach Me </h2> </p>
-<p align="center">- Discord: Ama Hesap Nası Güzel#8067 </p>            <p align="center">- Web Page: https://ygtdgn.com/ </p> 
-<p align="center">- Twitter: yigtdogn </p> 
+---
+
+
+
+<p align="center">
+
+  <strong>Not just writing code — building systems people can rely on.</strong>
+
+</p>
 
